@@ -1,0 +1,12 @@
+[package]
+name = "image_saver"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+kamera = "0.0.2"
+image = "0.24.7"
+chrono = "0.4.31"
+log = "0.4.20"
